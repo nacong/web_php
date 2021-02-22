@@ -3,7 +3,7 @@
     <title>PHP test</title>
   </head>
   <body>
-    <h1>YANGNACONG</h1>kdjf
+    <h1>YANGNACONG</h1>
     <ol>
       <li><a herf="index.php?id=HACKING"HACKING</a></li>
       <li><a herf="index.php?id=PICTURE"PICTURE</a></li>
